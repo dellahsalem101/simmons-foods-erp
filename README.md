@@ -36,3 +36,12 @@ My focus was on **Inventory** processes, while also providing support for **QA**
 - Cross-Functional ERP Knowledge  
 
 ---
+
+## 📂 Training Materials
+
+- [Day 1 – Inventory Training](./Inventory-QA-Slides/Day%201%20Inventory%20PPT.pdf)  
+- [Day 2 – Inventory Training](./Inventory-QA-Slides/Day%202%20Inventory%20PPT.pdf)  
+- [Day 3 – Inventory Training](./Inventory-QA-Slides/Day%203%20Inventory%20PPT.pdf)  
+- [Day 4 – Inventory Training](./Inventory-QA-Slides/Day%204%20Inventory%20PPT.pdf)  
+- [QA Training](./Inventory-QA-Slides/QA_Training.pdf)  
+- [SWIs & Preliminary Scenarios](./Inventory-QA-Slides/SWI's%20%26%20Preliminary%20Scenarios.pdf)  
