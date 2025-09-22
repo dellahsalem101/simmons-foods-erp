@@ -11,7 +11,7 @@ My focus was on **Inventory** processes, while also providing support for **QA**
 - **Employer:** Simmons Foods (Contract Role)  
 - **Role:** ERP Implementation Specialist  
 - **Scope:** Supported ERP rollout and go-live across Inventory, QA, and cross-functional teams  
-- **Primary Deliverables:** Training slides, standard work instructions (SWIs), and scenario documentation  
+- **Primary Deliverables:** Training slides & standard work instructions (SWIs)
 
 ---
 
@@ -38,6 +38,3 @@ My focus was on **Inventory** processes, while also providing support for **QA**
 - Cross-Functional ERP Knowledge  
 
 ---
-
-## 📄 Case Study
-See [case-study.md](./case-study.md) for insights into the ERP rollout process, challenges faced, and cross-department collaboration.
