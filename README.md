@@ -43,6 +43,6 @@ My focus was on **Inventory** processes, while also providing support for **QA**
 - [Day 2 – Inventory Training](./Day%202%20Inventory%20PPT.pdf)  
 - [Day 3 – Inventory Training](./Day%203%20Inventory%20PPT.pdf)  
 - [Day 4 – Inventory Training](./Day%204%20Inventory%20PPT.pdf)  
-- [QA Training](./QA_Training.pdf)  
+- [QA Training](./QA_Training.pdf.download)  
 - [SWIs & Preliminary Scenarios](./SWI's%20%26%20Preliminary%20Scenarios.pdf)  
 
