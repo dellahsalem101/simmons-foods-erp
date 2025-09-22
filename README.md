@@ -1,5 +1,3 @@
-# Simmons-Foods-ERP
-ERP rollout project for Simmons Foods. Focused on Inventory and QA training, documentation, and on-site go-live support. Hands-on experience with Oracle Fusion, Oracle WMS, and Flexi.
 # Simmons Foods ERP Implementation (Contract Role)
 
 This repository showcases my contributions as an **Implementation Specialist** for Simmons Foods' ERP rollout and go-live project.  
